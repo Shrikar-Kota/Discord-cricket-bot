@@ -7,6 +7,8 @@ Thie game this bot offers is pretty much similar to the game of cricket in real 
 <b>NOTE: </b>
 This is not the final version of the bot, updates keep coming once a month/week.
 
+
+<b>This is a dynamic image which shows the number of servers the bot is in.</b>
 <a href="https://top.gg/bot/723470180490936411">
   <img src="https://top.gg/api/widget/723470180490936411.svg" alt="Cricket Bot" />
 </a>
