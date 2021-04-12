@@ -6,3 +6,7 @@ Thie game this bot offers is pretty much similar to the game of cricket in real 
 
 <b>NOTE: </b>
 This is not the final version of the bot, updates keep coming once a month/week.
+
+<a href="https://top.gg/bot/723470180490936411">
+  <img src="https://top.gg/api/widget/723470180490936411.svg" alt="Cricket Bot" />
+</a>
